@@ -2,6 +2,9 @@
     <string name="app_name">Chat app</string>
     <string name="operator_name">%s (You)</string>
 
+    <string name="user_id">UserID</string>
+    <string name="nickname">Nickname</string>
+    <string name="connect">Connect</string>
     <string name="back">Back</string>
     <string name="enter_message">Enter Message</string>
     <string name="send">Send</string>
