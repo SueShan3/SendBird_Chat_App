@@ -25,7 +25,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
-                android:text="Back"
+                android:text="@string/back"
                 android:layout_marginTop="16dp"
                 android:textColor="#e0e0e0"
                 android:textSize="20sp"
@@ -75,7 +75,7 @@
             android:layout_centerVertical="true"
             android:layout_toStartOf="@+id/button_gchat_send"
             android:background="@android:color/transparent"
-            android:hint="Enter Message"
+            android:hint="@string/enter_message"
             android:inputType="text"
             android:maxLines="6"
             tools:ignore="Autofill" />
@@ -86,7 +86,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:background="?attr/selectableItemBackground"
-            android:text="Send"
+            android:text="@string/send"
             android:textColor="@color/purple_500" />
 
     </RelativeLayout>
