@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Chat app</string>
     <string name="operator_name">%s (You)</string>
+
+    <string name="back">Back</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send">Send</string>
 </resources>
